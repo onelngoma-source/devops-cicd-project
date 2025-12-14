@@ -4,7 +4,7 @@
 [![Docker](https://img.shields.io/badge/Docker-Ready-blue?logo=docker)](https://hub.docker.com)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
-> Pipeline CI/CD complet   avec GitHub Actions - Optimisé pour GitHub Desktop et Docker Desktop
+> Pipeline CI/CD complet avec GitHub Actions - Optimisé pour GitHub Desktop et Docker Desktop
 
 ## 📖 Description
 
